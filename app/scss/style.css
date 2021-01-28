@@ -417,7 +417,7 @@ button:hover::before,
 
 .hero__image {
   position: relative;
-  background-image: url("../images/bg-intro-mobile.svg");
+  background-image: url("../../images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -427,6 +427,7 @@ button:hover::before,
 @media (min-width: 40em) {
   .hero__image {
     min-height: 25rem;
+    background-position: center 70%;
   }
 }
 
@@ -448,7 +449,7 @@ button:hover::before,
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("../images/image-mockups.png");
+  background-image: url("../../images/image-mockups.png");
   background-size: 93%;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -457,7 +458,6 @@ button:hover::before,
 @media (min-width: 40em) {
   .hero__image::after {
     background-size: 52%;
-    background-position: center 60%;
   }
 }
 
@@ -476,7 +476,7 @@ button:hover::before,
     content: "";
     position: absolute;
     height: 100%;
-    background-image: url("../images/bg-intro-desktop.svg");
+    background-image: url("../../images/bg-intro-desktop.svg");
     background-repeat: no-repeat;
     background-position: center bottom;
     width: 150%;
