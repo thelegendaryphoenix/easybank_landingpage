@@ -2,19 +2,19 @@
 
 ## Live application
 
-[EasyBank](https://)
+[EasyBank](https://thelegendaryphoenix.github.io/easybank_landingpage/)
 
 ## Styles & Previews
 
 Site Preview:
-![Desktop Preview](./design_styles/desktop-preview.jpg)
+[Desktop Preview](./design_styles/desktop-preview.jpg)
 
 Site Design for Mobile and Desktop:
-![Mobile Design](./design_styles/mobile-design.jpg)
-![Desktop Design](./design_styles/desktop-design.jpg)
+[Mobile Design](./design_styles/mobile-design.jpg)
+[Desktop Design](./design_styles/desktop-design.jpg)
 
 Style Guide
-![Site Styles](./design_styles/style-guide.md)
+[Site Styles](./design_styles/style-guide.md)
 
 
 ## The Goal
@@ -39,5 +39,3 @@ Users should be able to:
 ## Interested in Building This Too?
 
 You can grab all the starter files for free at [Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
-
-
