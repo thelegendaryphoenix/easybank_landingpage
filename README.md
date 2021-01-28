@@ -1,6 +1,6 @@
 # Frontend Mentor - Easybank landing page
 
-## Live application
+## Live Demo
 
 [EasyBank](https://thelegendaryphoenix.github.io/easybank_landingpage/)
 
